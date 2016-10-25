@@ -1,0 +1,10 @@
+{
+    "i18n.locale": {
+        "zh_CN": {
+            "name": "中文（中国）",
+            "format.date.form": "Y/m/d",
+            "full": "zh_CN.utf8",
+            "translator.script.plural": "$n != 1"
+        }
+    }
+}

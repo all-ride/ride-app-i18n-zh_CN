@@ -1,0 +1,15 @@
+{
+    "name": "ride/app-i18n-zh_cn",
+    "description": "Chinese (China) locale for a Ride application.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wietse De Cnijf",
+            "email": "wietse@statik.be"
+        }
+    ],
+    "require": {
+        "ride/app": "^1.0.0",
+        "ride/app-i18n": "^1.0.0"
+    }
+}
